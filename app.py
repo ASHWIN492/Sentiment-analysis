@@ -11,7 +11,7 @@ import plotly.express as px
 nltk.download('vader_lexicon', quiet=True)
 
 # YouTube API setup
-API_KEY = "AIzaSyA24yKEydJlTXRKvGesG-Pr5LpfW20vuAa"  # Replace with your actual API key
+API_KEY = "..."  # Replace with your actual API key
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 # Basic spam detection keywords
