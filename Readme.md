@@ -1,4 +1,4 @@
-# YouTube Channel Analysis App
+# Visualization and Sentiment Analysis of YouTube Data
 
 This is a Streamlit application that performs sentiment analysis on YouTube video comments and provides visual insights into channel and video performance. The app uses the YouTube Data API to fetch data, NLTK for sentiment analysis, and Plotly for data visualizations.
 
